@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Abrir Link do Canva
+Comment=Este arquivo abre o link do Canva
+Exec=xdg-open https://www.canva.com/design/DAGOZsTCXb0/uTT3GsnI8NOpin8mojk2Uw/view?utm_content=DAGOZsTCXb0&utm_campaign=designshare&utm_medium=link&utm_source=viewer
+Icon=web-browser
+Terminal=false
+Type=Application
+
